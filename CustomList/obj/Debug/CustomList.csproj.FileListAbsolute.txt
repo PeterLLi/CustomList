@@ -1,0 +1,21 @@
+C:\Users\Peter\Documents\Projects\CustomList\CustomList\bin\Debug\CustomList.exe.config
+C:\Users\Peter\Documents\Projects\CustomList\CustomList\bin\Debug\CustomList.exe
+C:\Users\Peter\Documents\Projects\CustomList\CustomList\bin\Debug\CustomList.pdb
+C:\Users\Peter\Documents\Projects\CustomList\CustomList\obj\Debug\CustomList.csprojAssemblyReference.cache
+C:\Users\Peter\Documents\Projects\CustomList\CustomList\obj\Debug\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Documents\Projects\CustomList\CustomList\obj\Debug\CustomList.exe
+C:\Users\Peter\Documents\Projects\CustomList\CustomList\obj\Debug\CustomList.pdb
+F:\CustomList\CustomList\bin\Debug\CustomList.exe.config
+F:\CustomList\CustomList\bin\Debug\CustomList.exe
+F:\CustomList\CustomList\bin\Debug\CustomList.pdb
+F:\CustomList\CustomList\obj\Debug\CustomList.csprojAssemblyReference.cache
+F:\CustomList\CustomList\obj\Debug\CustomList.csproj.CoreCompileInputs.cache
+F:\CustomList\CustomList\obj\Debug\CustomList.exe
+F:\CustomList\CustomList\obj\Debug\CustomList.pdb
+F:\DevCodeCamp\Custom List Projects\CustomList\CustomList\bin\Debug\CustomList.exe.config
+F:\DevCodeCamp\Custom List Projects\CustomList\CustomList\bin\Debug\CustomList.exe
+F:\DevCodeCamp\Custom List Projects\CustomList\CustomList\bin\Debug\CustomList.pdb
+F:\DevCodeCamp\Custom List Projects\CustomList\CustomList\obj\Debug\CustomList.csprojAssemblyReference.cache
+F:\DevCodeCamp\Custom List Projects\CustomList\CustomList\obj\Debug\CustomList.csproj.CoreCompileInputs.cache
+F:\DevCodeCamp\Custom List Projects\CustomList\CustomList\obj\Debug\CustomList.exe
+F:\DevCodeCamp\Custom List Projects\CustomList\CustomList\obj\Debug\CustomList.pdb
