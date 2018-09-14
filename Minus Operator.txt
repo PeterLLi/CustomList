@@ -1,0 +1,46 @@
+Syntax:
+public static MyList<T> operator -(MyList<T> primaryList, MyList<T> subtractList)
+        {
+            MyList<T> myNewList = new MyList<T>();
+            bool hold;
+            for (int i = 0; i < primaryList.Count; i++)
+            {
+                hold = true;
+                for (int j = 0; j < subtractList.Count; j++)
+                {
+                    if (primaryList[i].Equals(subtractList[j]))
+                    {
+                        hold = false;
+                    }
+                }
+                if (hold)
+                {
+                    myNewList.Add(primaryList[i]);
+                }
+            }
+            return myNewList;
+        }
+
+Paramaters:
+PrimaryList - the original list that the user wants to subtract items from.
+SubtractList - The list of values that the user wants to subtract from the primary list.
+
+Return type:
+Returns a new list with the remaining values.
+
+Example:
+public void IntegerSubtractAllValueTest()
+        {
+            MyList<int> myList1 = new MyList<int> { 1, 1, 1, 2, 2, 2 };
+            MyList<int> myList2 = new MyList<int> { 1, 2 };
+            MyList<int> subtractList;
+
+            int expectedCount = 0;
+
+            subtractList = myList1 - myList2;
+
+            Assert.AreEqual(expectedCount, subtractList.Count);
+        }
+
+--No Values remained.
+--Total count is 0.
